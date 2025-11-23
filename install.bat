@@ -2,7 +2,7 @@
 title HacxGPT Installer
 
 echo ======================================
-echo     HacxGPT Installer for Windows
+echo     HacxGPT Installer for Windows 
 echo ======================================
 
 :: Check for Git
