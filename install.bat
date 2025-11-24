@@ -1,7 +1,7 @@
 @echo off
 title HacxGPT Installer
 
-echo ======================================
+echo ====================================== 
 echo     HacxGPT Installer for Windows
 echo ======================================
 
