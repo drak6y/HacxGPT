@@ -53,7 +53,7 @@ A look at the interactive CLI environment of **HacxGPT**.
 
 3. **Download this repository** or clone it via Git:
    ```bash
-   git clone https://github.com/drak6y/HacxGPT.git
+   git clone https://github.com/setls/HacxGPT.git
    ```
 
 ---
@@ -104,5 +104,5 @@ Distributed under the **MIT LICENSE**.
 ---
 
 <div align="center">
-  <sub>© 2025 drak6y — All Rights Reserved</sub>
+  <sub>© 2025 setls — All Rights Reserved</sub>
 </div>
