@@ -2,7 +2,7 @@
 
   ![HacxGPT logo](./img/HackGPT.png)
 
-  # HacxGPT
+  # HacxGPT 
 
   <p>
     <strong>Advanced Adversarial AI Framework — a research-oriented system exploring the boundaries of autonomous reasoning and secure language model behavior.</strong>
